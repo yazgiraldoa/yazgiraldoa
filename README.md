@@ -13,9 +13,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on learning
+- 🔭 I’m currently working on my professional growth
 
-- 🌱 I’m currently learning relational and non-relational databases 
+- 🌱 I’m currently learning Amazon Web Services 
 
 - 👯 I’m looking to collaborate on educational projects 
 
