@@ -2,8 +2,6 @@
 <h1> Hello < Developers >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yazgiraldoa.yazgiraldoa)
-
 </p>
 <div size='20px'> Hi! My name is Yazmin Giraldo. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -15,7 +13,7 @@
 
 - 🔭 I’m currently working on my professional growth
 
-- 🌱 I’m currently learning Amazon Web Services 
+- 🌱 I’m currently learning about databases
 
 - 👯 I’m looking to collaborate on educational projects 
 
